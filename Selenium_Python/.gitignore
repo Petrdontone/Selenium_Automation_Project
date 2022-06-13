@@ -1,2 +1,4 @@
 *.idea
-
+Selenium_Python/.idea
+/tests/.pytest_cache/
+*.pytest_cache
